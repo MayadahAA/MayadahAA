@@ -13,11 +13,11 @@
 
 🚀 **About Me**
 - 🔭 I'm currently working on [Masar Initiative Website](https://shorturl.at/f5hN5) using Next.js and Framer Motion
-- 🌱 I'm currently learning **Advanced Next.js, Framer Motion animations, React Patterns, and GraphQL**
+- 🌱 I'm currently learning **Advanced Next.js, Framer Motion animations, React Patterns**
 - 👨‍💻 All of my projects are available at [https://github.com/MayadahAA](https://github.com/MayadahAA)
 - 💬 Ask me about **React, Next.js, Framer Motion, JavaScript, UX/UI Design**
 - 📫 How to reach me: **alarifimayadah@gmail.com**
-- ⚡ Fun fact: **I can make websites dance with code! 💃🕺**
+- ⚡ Fun fact: **I can make websites dance with code!**
 
 ---
 
@@ -91,6 +91,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
+
