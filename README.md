@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayadah Alarifi</h1>
-<h3 align="center">A passionate Frontend Developer & UX/UI Designer crafting delightful, animated experiences</h3>
+<h3 align="center">A passionate Frontend Developer & UX/UI Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayadahaa&label=Profile%20views&color=0e75b6&style=flat" alt="mayadahaa" />
