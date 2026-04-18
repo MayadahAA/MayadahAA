@@ -12,10 +12,7 @@
 ---
 
 🚀 **About Me**
-- 🔭 I'm currently working on Masar Initiative Website using Next.js 
-- 🌱 I'm currently learning **Advanced Next.js, Framer Motion animations, React Patterns**
 - 👩🏻‍💻 All of my projects are available at [https://github.com/MayadahAA](https://github.com/MayadahAA)
-- 💬 Ask me about **React, Next.js, Framer Motion, JavaScript, UX/UI Design**
 - 📫 How to reach me: **alarifimayadah@gmail.com**
 
 ---
